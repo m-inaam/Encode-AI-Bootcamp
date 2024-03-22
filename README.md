@@ -1,5 +1,5 @@
 # Encode-AI-Bootcamp
-Team # 27 for the Encode Ai Bootcamp 
+Team # 27 for the Encode AI Bootcamp 
 
 ## Team Members 
 1. Muhammad Inaaamullah
