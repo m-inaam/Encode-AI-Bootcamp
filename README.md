@@ -8,3 +8,4 @@ Team # 27 for the Encode Ai Bootcamp
 4. Maryam Rizvi
 5. Shafqat Hussain
 6. Bhasker
+7. Ali Raza
