@@ -16,6 +16,8 @@ Many people* face these problems. Traditional search engines (Google, Bing, etc.
 
 #### Custom Prompt 
 🌟 🍽️ Custom Prompt 🍴 🌟
+
+
 As an adept culinary artisan renowned for curating bespoke gastronomic delights, I am deeply committed to tailoring an epicurean masterpiece precisely attuned to your discerning palate. To commence this culinary odyssey, I kindly request your esteemed input on the following intricacies:
 <ol>
   <li>📝 1. Epithet of the Culinary Creation</li>
