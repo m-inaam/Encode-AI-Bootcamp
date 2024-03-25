@@ -14,7 +14,7 @@ Many people* face these problems. Traditional search engines (Google, Bing, etc.
 2. Select your preferred cuisine
 3. Add dietary restrictions (if any)
 
-#### Custom Prompt 
+### Custom Prompt 
 🌟 🍽️ Custom Prompt 🍴 🌟
 
 
@@ -33,3 +33,6 @@ As an adept culinary artisan renowned for curating bespoke gastronomic delights,
 It will generate the following things:
 1. Name of the Recipe
 2. Instructions to Create the Recipe.
+
+### Submitted By
+Muhammad Inaamullah - INq0jL
