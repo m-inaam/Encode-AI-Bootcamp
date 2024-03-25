@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z6PHWJT5VR"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-Z6PHWJT5VR');
+  </script>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>What's Cooking?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="app">
+    <h1 id="main_heading">Multilingual Recipe Search Engine </h1>
+    <h2 id="description">Give it a list of ingredients in any <a href="https://docs.cohere.ai/docs/supported-languages">supported Language</a>, and it will return a recipe for you.
+    </h2>
+    <div id="chat_container"></div>
+    <form>
+      <textarea name="prompt" rows="1" cols="1"
+        placeholder="Try &quot;rice, oil, soy sauce, carrots, eggs, peas&quot;"></textarea>
+      <div class="language-dropdown-container">
+        <!-- Changed from div to select -->
+        <select class="dropdown-content"></select>
+        <button type="submit"><img src="assets/send.svg" alt="send"></button>
+      </div>
+    </form>
+  </div>
+
+
+  <script type="module" src="script.js"></script>
+</body>
+
+</html>
