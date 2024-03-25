@@ -10,9 +10,4 @@ Many people* face these problems. Traditional search engines (Google, Bing, etc.
 *Think of students, refugees, and people on a minimal budget.
 
 ### How it works
-We used Cohere's multilingual model to embed a list of ingredients into an embedding space called `recipes_index.ann`. 
-For any query, we embed the query and search that embedding space for its approximate nearest neighbor.
-We then use `reduced_recipes_dataset.csv` to get the recipe details.
-Finally, we use Google translate to translate those recipe details back into the input's language.
 
-`reduced_recipes_dataset.csv` is the first 100K recipes from the [RecipeNLG dataset](https://github.com/Glorf/recipenlg).
