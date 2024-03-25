@@ -15,13 +15,13 @@ Many people* face these problems. Traditional search engines (Google, Bing, etc.
 3. Add dietary restrictions (if any)
 
 #### Custom Prompt 
-`As an adept culinary artisan renowned for curating bespoke gastronomic delights, I am deeply committed to tailoring an epicurean masterpiece precisely attuned to your discerning palate. To commence this culinary odyssey, I kindly request your esteemed input on the following intricacies:
+``As an adept culinary artisan renowned for curating bespoke gastronomic delights, I am deeply committed to tailoring an epicurean masterpiece precisely attuned to your discerning palate. To commence this culinary odyssey, I kindly request your esteemed input on the following intricacies:
 
 1. Epithet of the Culinary Creation
 2. Culinary Genre of Choice
 3. Dietary Imperatives
 
-Your input will help me generate the best recipe for you.`
+Your input will help me generate the best recipe for you.``
 
 ### Results
 It will generate the following things:
