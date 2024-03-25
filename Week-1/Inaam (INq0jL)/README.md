@@ -33,6 +33,7 @@ As an adept culinary artisan renowned for curating bespoke gastronomic delights,
 It will generate the following things:
 1. Name of the Recipe
 2. Instructions to Create the Recipe.
+3. Act as a critic for the generated recipe to provide feedback.
 
 ### Submitted By
 Muhammad Inaamullah - INq0jL
